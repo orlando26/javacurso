@@ -19,6 +19,8 @@ public class Operaciones {
          // el valor de las variables se pueden reasignar
          num = 4;
 
+         
+
          result = num + num2;
          System.out.print(result);
 
